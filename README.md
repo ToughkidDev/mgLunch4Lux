@@ -17,9 +17,9 @@ v1.2f :
 
 USAGE
 
-mgLunch.com - mgLunch! for LuxuryBox
-mglUx.com  - romloader for LuxuryBox
-mglCook.exe - rom file scanner for Windows xp/vista/7/8/8.1/10 
+- mgLunch.com - mgLunch! for LuxuryBox
+- mglUx.com  - romloader for LuxuryBox
+- mglCook.exe - rom file scanner for Windows xp/vista/7/8/8.1/10 
 
       [F1] Search : Search Rom File 
       [F2] FavBnk : Change to Favorite section
