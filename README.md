@@ -4,6 +4,8 @@ Launcher for mgLux (LuxuryBox)
 
 mgLunch! is a MSX ROM launcher for LuxuryBox
 
+![LuxuryBox Cartridge](mgLunch4Lux.jpg)
+
 v1.2f :
 
       1. task switching module's were fixed. 
