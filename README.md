@@ -19,9 +19,15 @@ v1.2f :
 
 USAGE
 
-- mgLunch.com - mgLunch! for LuxuryBox
-- mglUx.com  - romloader for LuxuryBox
-- mglCook.exe - rom file scanner for Windows xp/vista/7/8/8.1/10 
+      - mgLunch.com - mgLunch! for LuxuryBox
+      - mglUx.com  - romloader for LuxuryBox
+      - mglCook.exe - rom file scanner for Windows xp/vista/7/8/8.1/10 
+
+## MSX mgLunch! Setup Guide.   https://youtu.be/qOpE3horClY
+[![MSX mgLunch! Setup Guide.](https://yt-embed.herokuapp.com/embed?v=qOpE3horClY)](https://www.youtube.com/watch?v=qOpE3horClY "MSX mgLunch! Setup Guide.")
+
+
+Operation Keys - 
 
       [F1] Search : Search Rom File 
       [F2] FavBnk : Change to Favorite section
